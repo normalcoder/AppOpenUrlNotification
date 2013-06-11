@@ -1,4 +1,4 @@
 #import "AppOpenUrlNotification.h"
 
-NSString * AppOpenUrlNotification = @"AppOpenUrlNotification";
-NSString * AppOpenUrlNotificationUserInfoKey = @"AppOpenUrlNotificationUserInfoKey";
+NSString* const AppOpenUrlNotification = @"AppOpenUrlNotification";
+NSString* const AppOpenUrlNotificationUserInfoKey = @"AppOpenUrlNotificationUserInfoKey";

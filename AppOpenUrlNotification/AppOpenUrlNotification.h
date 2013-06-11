@@ -1,4 +1,4 @@
 #import <Foundation/Foundation.h>
 
-NSString * AppOpenUrlNotification;
-NSString * AppOpenUrlNotificationUserInfoKey;
+NSString* const AppOpenUrlNotification;
+NSString* const AppOpenUrlNotificationUserInfoKey;
